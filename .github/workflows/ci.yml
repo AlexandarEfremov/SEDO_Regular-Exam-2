@@ -2,7 +2,7 @@ name: Python CI
 
 on:
   push:
-    branches: [ "push", "develop", "feature"]
+    branches: [ "develop", "feature"]
 
 permissions:
   contents: read
